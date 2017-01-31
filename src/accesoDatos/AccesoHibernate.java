@@ -109,6 +109,7 @@ public class AccesoHibernate implements Datos {
 		s.beginTransaction();
 		
 		for(HashMap.Entry<String, Dispensador> entry : dispensadores.entrySet()){
+			
 
 			s.update(entry.getValue());
 
