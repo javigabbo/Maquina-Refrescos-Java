@@ -1,0 +1,3 @@
+coca;Coca-Cola;70;5
+fantaN;Fanta Naranja;50;6
+nestea;Nestea;100;6

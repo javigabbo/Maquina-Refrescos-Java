@@ -1,0 +1,6 @@
+Cincuenta centimos;50;5
+Veinte centimos;20;4
+Un euro,;100;6
+Cinco centimos;5;5
+Dos euros;200;5
+Diez centimos;10;4
